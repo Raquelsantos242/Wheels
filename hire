@@ -1,9 +1,5 @@
 package wheels;
 
-/**
- *
- * @author sarah.pereira
- */
 import java.util.Date;
 
 public class Hire {
