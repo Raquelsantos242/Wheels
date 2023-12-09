@@ -1,9 +1,5 @@
 package wheels;
 
-/**
- *
- * @author sarah.pereira
- */
 public class Customer {
     //set up member variables
     private String name = null;
