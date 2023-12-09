@@ -1,9 +1,5 @@
 package wheels;
 
-/**
- *
- * @author sarah.pereira
- */
 public class Payment {
     //set up the member variables
     private Customer customer = null;
